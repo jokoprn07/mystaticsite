@@ -1,0 +1,9 @@
+{{ if not .Site.Params.hideFooter | default false }}
+  <footer class="footer">
+    <section class="container">
+      {{ with .Site.Params.footercontent | safeHTML }}
+        <p>{{ . }}</p>
+      {{ end }}
+    </section>
+  </footer>
+{{ end }}
