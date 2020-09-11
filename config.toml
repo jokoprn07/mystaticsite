@@ -61,7 +61,7 @@ disqusShortname = "disable"
     url = "https://www.facebook.com/joko.punomo.984"
 [[params.social]]
     name = "Email"
-    icon = "fab fa-mail fa-2x"
+    icon = "fa fa-envelope fa-2x"
     weight = 5
     url = "mailto:rokiadhytama@pm.me"
 
