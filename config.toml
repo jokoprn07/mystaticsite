@@ -53,7 +53,7 @@ disqusShortname = "disable"
     name = "Telegram"
     icon = "fab fa-telegram fa-2x"
     weight = 4
-    url = "https://t.me/JokoGanss/"
+    url = "https://t.me/rokiadhytama/"
 [[params.social]]
     name = "Facebook"
     icon = "fab fa-facebook fa-2x"
@@ -62,14 +62,18 @@ disqusShortname = "disable"
 
 # Menu links
 [[menu.main]]
-    name = "Blog"
+    name = "Home"
     weight = 1
+    url = "/"
+[[menu.main]]
+    name = "Blog"
+    weight = 2
     url  = "http://newtech.my.id"
 [[menu.main]]
     name = "About"
-    weight = 2
+    weight = 3
     url = "about"
 [[menu.main]]
     name = "Contact"
-    weight = 3
+    weight = 4
     url = "contact"
