@@ -32,14 +32,14 @@ My Job Experience :
 
 * Pelayan Toko in Granada ( Toko Pakaian )
 * Konsultan Herbal in PT. Hexin Group
-* Freelance Web Developer & Graphic Designer
+* Freelancer Web Developer & Graphic Designer
 
 All Logos My Community :
 
 ![Logo KlatenSec](https://i.ibb.co/GHx11LC/klatensec.png)
 ![Logo Jogja Cyber Security](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjERSmPWseOh3g07_-UijmgS_zaEckUSiCaA&usqp=CAU)
-![Logo Security Darknet]()
-![Logo SIC](https://i.ibb.co/dLQVvb0/Whats-App-Image-2020-09-12-at-16-23-57.jpg)
-<img width="100%" height="100%" src="https://github.com/Abdullahsams/Abdullahsams/blob/master/1517887314_1502946397_tumblr_oorm14Ceva1rbd7lgo1_400%20(1).gif">
+![Logo SIC](https://i.ibb.co/PgfbhTH/Whats-App-Image-2020-09-12-at-16-33-05.jpg)
+![Logo DMC Team](https://i.ibb.co/LdrZG7b/IMG-20200912-174350-250.jpg)
+![Logo Security Darknet](https://i.ibb.co/SVSk1Vy/IMG-20200912-163105-842.jpg "md_image")
 
 Thank You for Reading and Visiting My Site.
