@@ -20,7 +20,7 @@ My Community :
 * Jogja Cyber Security
 * Semarang Informatics Crew
 * DarkMythsCyber Team
-* Security Darknet
+* Security Darknet 
 
 My Educational Background :
 
@@ -36,7 +36,7 @@ My Job Experience :
 
 All Logos My Community :
 
-![Logo KlatenSec](https://i.ibb.co/GHx11LC/klatensec.png)
+![Logo KlatenSec](https://i.ibb.co/BgJpHgy/klatensecku.png)
 ![Logo Jogja Cyber Security](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjERSmPWseOh3g07_-UijmgS_zaEckUSiCaA&usqp=CAU)
 ![Logo SIC](https://i.ibb.co/PgfbhTH/Whats-App-Image-2020-09-12-at-16-33-05.jpg)
 ![Logo DMC Team](https://i.ibb.co/LdrZG7b/IMG-20200912-174350-250.jpg)
