@@ -17,9 +17,6 @@ My Name is Joko Purnomo, I'm a Web Developer, Graphic Designer & Mahasiswa STMIK
 My Community :
 
 * KlatenSec
-
-<img src="https://2.bp.blogspot.com/-vF8lQqLzIxk/X1x7YM7zz9I/AAAAAAAAANA/vjctIdXZbcYmy97NKG5II8FCXJWhcv_awCK4BGAYYCw/s1600/20200912_143915.png" alt="Logo KlatenSec" width="auto" height="300px">
-
 * Jogja Cyber Security
 * Semarang Informatics Crew
 * DarkMythsCyber Team
@@ -36,5 +33,13 @@ My Job Experience :
 * Pelayan Toko in Granada ( Toko Pakaian )
 * Konsultan Herbal in PT. Hexin Group
 * Freelance Web Developer & Graphic Designer
+
+All Logos My Community :
+
+![Logo KlatenSec](https://i.ibb.co/GHx11LC/klatensec.png)
+![Logo Jogja Cyber Security](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjERSmPWseOh3g07_-UijmgS_zaEckUSiCaA&usqp=CAU)
+![Logo Security Darknet]()
+![Logo SIC](https://i.ibb.co/dLQVvb0/Whats-App-Image-2020-09-12-at-16-23-57.jpg)
+<img width="100%" height="100%" src="https://github.com/Abdullahsams/Abdullahsams/blob/master/1517887314_1502946397_tumblr_oorm14Ceva1rbd7lgo1_400%20(1).gif">
 
 Thank You for Reading and Visiting My Site.
