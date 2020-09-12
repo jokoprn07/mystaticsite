@@ -16,7 +16,10 @@ My Name is Joko Purnomo, I'm a Web Developer, Graphic Designer & Mahasiswa STMIK
 
 My Community :
 
-* Klaten Paranoid or Klaten Crew
+* KlatenSec
+
+<img src="https://2.bp.blogspot.com/-vF8lQqLzIxk/X1x7YM7zz9I/AAAAAAAAANA/vjctIdXZbcYmy97NKG5II8FCXJWhcv_awCK4BGAYYCw/s1600/20200912_143915.png" alt="Logo KlatenSec" width="auto" height="300px">
+
 * Jogja Cyber Security
 * Semarang Informatics Crew
 * DarkMythsCyber Team
