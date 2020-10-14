@@ -43,7 +43,7 @@ disqusShortname = "disable"
     name = "Instagram"
     icon = "fab fa-instagram fa-2x"
     weight = 2
-    url = "https://instgram.com/rokiadhytama/"
+    url = "https://instagram.com/rokiadhytama/"
 [[params.social]]
     name = "WhatsApp"
     icon = "fab fa-whatsapp fa-2x"
