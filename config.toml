@@ -23,7 +23,7 @@ disqusShortname = "disable"
     favicon_32 = "https://i.ibb.co/vdwqNG2/favicon-32x32.png"
     favicon_16 = "https://i.ibb.co/4Z9d7GK/favicon-16x16.png"
 
-    footercontent = "Copyright @2020 by JokoGanss | Template by Luiz De Pra"
+    footercontent = "Copyright @2020 by JokoGanss"
 
     hidecredits = true
     hidecopyright = true
