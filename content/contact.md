@@ -8,10 +8,8 @@ draft: false
 
 You can Contact Me Via :
 
-* [Email](mailto:rokiadhytama@pm.me)
-* [Facebook](https://www.facebook.com/joko.punomo.984)
+* [Email](mailto:jokopurnomo07@pm.me)
 * [Instagram](https://instagram.com/rokiadhytama)
 * [Github](https://github.com/jokoprn07)
 * [Telegram](https://t.me/JokoGanss)
-* [WhatsApp](https://wa.me/62895375713363)
 

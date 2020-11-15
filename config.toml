@@ -45,25 +45,15 @@ disqusShortname = "disable"
     weight = 2
     url = "https://instagram.com/rokiadhytama/"
 [[params.social]]
-    name = "WhatsApp"
-    icon = "fab fa-whatsapp fa-2x"
-    weight = 3
-    url = "https://wa.me/62895375713363/"
-[[params.social]]
     name = "Telegram"
     icon = "fab fa-telegram fa-2x"
-    weight = 4
+    weight = 3
     url = "https://t.me/rokiadhytama/"
-[[params.social]]
-    name = "Facebook"
-    icon = "fab fa-facebook fa-2x"
-    weight = 5
-    url = "https://www.facebook.com/joko.punomo.984"
 [[params.social]]
     name = "Email"
     icon = "fa fa-envelope fa-2x"
-    weight = 5
-    url = "mailto:rokiadhytama@pm.me"
+    weight = 4
+    url = "mailto:jokopurnomo07@pm.me"
 
 
 # Menu links
