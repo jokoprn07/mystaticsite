@@ -1,4 +1,4 @@
-baseurl = "http://jokopurnomo.my.id"
+baseurl = "https://jokopurnomo.my.id"
 title = "Joko Purnomo"
 theme = "hugo-coder"
 languagecode = "en"
@@ -38,7 +38,7 @@ disqusShortname = "disable"
     name = "Github"
     icon = "fab fa-github fa-2x"
     weight = 1
-    url = "https://github.com/jokoprn07/"
+    url = "https://github.com/jokopurnomo07/"
 [[params.social]]
     name = "Instagram"
     icon = "fab fa-instagram fa-2x"

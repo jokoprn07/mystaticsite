@@ -10,6 +10,6 @@ You can Contact Me Via :
 
 * [Email](mailto:jokopurnomo07@pm.me)
 * [Instagram](https://instagram.com/rokiadhytama)
-* [Github](https://github.com/jokoprn07)
+* [Github](https://github.com/jokopurnomo07)
 * [Telegram](https://t.me/JokoGanss)
 
