@@ -32,12 +32,4 @@ My Job Experience :
 - Konsultan Herbal in PT. Hexin Group
 - Freelancer Web Developer & Graphic Designer
 
-All Logos My Community :
-
-![Logo KlatenSec](https://i.ibb.co/BgJpHgy/klatensecku.png)
-![Logo Jogja Cyber Security](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQjERSmPWseOh3g07_-UijmgS_zaEckUSiCaA&usqp=CAU)
-![Logo SIC](https://i.ibb.co/PgfbhTH/Whats-App-Image-2020-09-12-at-16-33-05.jpg)
-![Logo DMC Team](https://i.ibb.co/LdrZG7b/IMG-20200912-174350-250.jpg)
-![Logo Security Darknet](https://i.ibb.co/SVSk1Vy/IMG-20200912-163105-842.jpg)
-
 Thank You for Reading and Visiting My Site.
