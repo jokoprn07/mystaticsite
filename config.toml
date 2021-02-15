@@ -64,7 +64,7 @@ disqusShortname = "disable"
 [[menu.main]]
     name = "Blog"
     weight = 2
-    url  = "http://newtech.my.id"
+    url  = "http://www.newtech.my.id"
 [[menu.main]]
     name = "About"
     weight = 3
